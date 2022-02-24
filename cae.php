@@ -10,7 +10,7 @@
 <hr>
 <center>
 <table border=5 bgcolor=pink width=50%>
-<th>CAE PT</th>
+<th><a href="cae.html">CAE</a></th>
 </table>
 </center>
 <hr>
