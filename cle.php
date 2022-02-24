@@ -10,7 +10,7 @@
 <hr>
 <center>
 <table border=5 bgcolor=pink width=50%>
-<th>CLE PT</th>
+<th><a href="cle.html">CLE</a></th>
 </table>
 </center>
 <hr>
