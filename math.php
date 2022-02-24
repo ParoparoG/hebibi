@@ -10,7 +10,7 @@
 <hr>
 <center>
 <table border=5 bgcolor=pink width=50%>
-<th>MATH PT</th>
+<th><"math.html">MATH</a></th>
 </table>
 </center>
 <hr>
