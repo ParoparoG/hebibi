@@ -10,7 +10,7 @@
 <hr>
 <center>
 <table border=5 bgcolor=pink width=50%>
-<th><"math.html">MATH</a></th>
+<th><a href="math.html">MATH</a></th>
 </table>
 </center>
 <hr>
